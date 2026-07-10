@@ -37,3 +37,9 @@ holy lockin. i learned what pullups are... the ones with resistors and some elec
 **Time spent : 8**
 
 **Total time : 18**
+
+#08/10/2026
+
+**Time spent : 14.5**
+
+**Total time : 32.5**
