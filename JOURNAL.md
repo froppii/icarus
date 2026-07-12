@@ -30,7 +30,7 @@ more schematics work yay....! searching for an alternative to the DAC i initiall
 
 **Total time : 10**
 
-#08/07/2026
+## 08/07/2026
 
 holy lockin. i learned what pullups are... the ones with resistors and some electronics basics because i have the memory of a goldfish. looked into lipo charging circuits but found out you can use these magical things called power management ics, which basically has everything in one. theres so little resources on the axp2101 pmic im using so ill be giving up on it for now and get back to it eventually sob. good news is i figured out how to wire the sd card!!! yippie!!!1 and the usbc to some extent
 
@@ -38,8 +38,13 @@ holy lockin. i learned what pullups are... the ones with resistors and some elec
 
 **Total time : 18**
 
-#08/10/2026
+## 10/07/2026
 
 **Time spent : 14.5**
 
 **Total time : 32.5**
+
+## 11/07/2026
+
+**Time spent : 15**
+**Total time : 47.5**
